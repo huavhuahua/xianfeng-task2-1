@@ -2,7 +2,7 @@ import os
 import requests
 import chardet
 import json
-import  re
+import re
 
 r1 = requests.get("https://pvp.qq.com/web201605/js/herolist.json")
 a=r1.content.decode()
