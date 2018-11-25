@@ -5,6 +5,7 @@ import json
 import  re
 import pymysql
 
+
 r1 = requests.get("https://pvp.qq.com/web201605/js/herolist.json")
 a=r1.content.decode()
 if a.startswith(u'\ufeff'):
