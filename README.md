@@ -1,5 +1,6 @@
 # xianfeng-task2-1 食用说明
 （这里是用来写说明的嘛？？
+跟袁文轩同学协作完成的任务
 解析html.py获取json,
 herojson文件夹是json文件, 
 web页面/main文件夹里是前后端，a.html搜索页面，fb.html是英雄查询结果页面,
